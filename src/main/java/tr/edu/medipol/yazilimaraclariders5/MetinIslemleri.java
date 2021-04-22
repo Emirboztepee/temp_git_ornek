@@ -1,4 +1,4 @@
-package tr.edu.medipol.yazilimaraclariders7;
+package tr.edu.medipol.yazilimaraclariders5;
 
 public class MetinIslemleri {
 
